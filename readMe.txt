@@ -7,6 +7,10 @@ Please cite the above work if you use this file.
 
 For any comments and questions please email: ahmetmelbir@gmail.com
 
+Run the following codes sequentially to training and test the network
+1. main01_GenerateData.m	
+2. main02_TrainNetwork.m
+3. main03_TestNetwork.m
 
 You can find the MATLAB codes of PE-Alt-Min algorithm [1]  in [2].
 
